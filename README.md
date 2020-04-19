@@ -1,3 +1,8 @@
+캐글코리아 Repository에서 가져온 Repository입니다.
+원본 사항에 대해서는 아래 해당 Repository의 안내를 참고해 주세요.
+(현 Repository는 개인적인 학습을 위하여 수정이 진행되어 원본과 달라질 수 있음을 참고해 주세요.)
+
+---
 # Kaggle-Kernels-translations-korean
 공부하고 싶은 커널들을 필사 및 번역한 Repository 입니다.
 
